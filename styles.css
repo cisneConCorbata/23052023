@@ -208,14 +208,14 @@ nav .social {
 
 .redes .social {
 	background-color: var(--azul);
-	width: 50px;
-	height: 50px;
+	width: 70px;
+	height: 70px;
 }
 
 .socialFooter .social {
 	background-color: var(--white);
-	width: 20px;
-	height: 20px;
+	width: 40px;
+	height: 40px;
 }
 
 .redesNav, .redesBody {
@@ -487,6 +487,14 @@ form {
 
 .redes h3 {
 	margin-right: 50px;
+}
+
+.redes .social a {
+	font-size: 40px;
+}
+
+.socialIcons .social a {
+	font-size: 30px;
 }
 
 .footerSection1 {
